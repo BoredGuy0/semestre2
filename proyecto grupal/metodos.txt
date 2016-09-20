@@ -24,3 +24,5 @@ crearProducto(int,int,String,int)
 vender(int i){
   prod.get(i).setCantidad(prod.get(i).getCantidad()-1);
 }
+
+
